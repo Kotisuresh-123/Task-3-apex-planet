@@ -199,16 +199,16 @@ http://localhost/role-based-user-management
 ## 📸 Screenshots
 
 ### Login Page
-(Add Screenshot)
+![login page](assets/images/login.png)
 
 ### Admin Dashboard
-(Add Screenshot)
+![admin dashboard](<assets/images/admin dashboard.png>)
 
 ### User Dashboard
-(Add Screenshot)
+![user dashboard](<assets/images/user dashboard.png>)
 
 ### User Management Page
-(Add Screenshot)
+![user management](assets/images/user-manage.png)
 
 ---
 
@@ -230,7 +230,7 @@ Through this project, I gained hands-on experience in:
 
 LinkedIn Demo Video:
 
-(Add LinkedIn Video Link Here)
+https://www.linkedin.com/posts/koti-suresh-kommu-a26403339_phpdeveloper-mysql-rbac-activity-7479169107087613954-6nlx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFT0mf4BPmeCXwiynJbRyRMqIQtaOO4pBR4
 
 ---
 
